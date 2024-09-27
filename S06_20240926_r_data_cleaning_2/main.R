@@ -26,4 +26,5 @@ schools_tibble <- read_csv("https://raw.githubusercontent.com/HeardLibrary/digit
 source("scripts/0_vectors.R")
 source("scripts/1_dataframes.R")
 
+source("scripts/0_clean_data.R")
 
